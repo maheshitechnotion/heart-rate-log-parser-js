@@ -1,0 +1,22 @@
+{
+    "name": "heart-rate-log-parser",
+    "version": "1.0.0",
+    "description": "Extract HeartRate values from log strings with domain-aware validation",
+    "main": "extractHeartRate.js",
+    "type": "module",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "keywords": [
+        "log-parser",
+        "heart-rate",
+        "regex",
+        "data-extraction",
+        "health-monitoring"
+    ],
+    "author": "",
+    "license": "MIT",
+    "engines": {
+        "node": ">=14.0.0"
+    }
+}
